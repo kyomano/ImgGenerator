@@ -81,3 +81,15 @@ If you want to add more, Please don't hesitate to open a [pull request](https://
 [![Twitter Follow](https://img.shields.io/twitter/follow/dhavalcode?style=social)](https://twitter.com/dhavalCode)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavalcode)
+
+2a24eb04
+fd118825
+7afebe11
+6a447a32
+ba2cc875
+20a46322
+a7a5f917
+4f4d5936
+dadf7e32
+0404caa3
+ae5bb4
