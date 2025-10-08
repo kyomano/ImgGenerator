@@ -68,7 +68,7 @@ npm start
 MONGODB_URL= "Replace with your url"
 OPEN_AI_KEY=  "Replace with your key"
 CLOUDINARY_CLOUD_NAME= "Replace with yours"
-CLOUDINARY_API_KEY= "Your api key"
+CLOUDINARY_API_KEY= "2a24eb04 fd118825 7afebe11 6a447a32 ba2cc875 20a46322 a7a5f917 4f4d5936 dadf7e32 0404caa3 ae5bb4"
 CLOUDINARY_API_SECRET= "Your app secret key"
 ```
 
@@ -82,14 +82,4 @@ If you want to add more, Please don't hesitate to open a [pull request](https://
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavalcode)
 
-2a24eb04
-fd118825
-7afebe11
-6a447a32
-ba2cc875
-20a46322
-a7a5f917
-4f4d5936
-dadf7e32
-0404caa3
-ae5bb4
+
