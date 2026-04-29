@@ -68,7 +68,7 @@ npm start
 MONGODB_URL= "Replace with your url"
 OPEN_AI_KEY=  "Replace with your key"
 CLOUDINARY_CLOUD_NAME= "Replace with yours"
-CLOUDINARY_API_KEY= "GM8m41h6dchwaijGM4gp4mkGfiKD6HPPadVt3wREVeP9iAfnTcwSNrEqddqrSMXztkiQDcdvNC7n7qQYvSGz7vtw"
+CLOUDINARY_API_KEY= "X7RH5gDymrtZoKVP3jC4wuntYk8gNeS4RPZZDsAzug2KDMXwgQT8JJnFR9wxamgFqXwXQnLdTRTAVB1F5Awx9wtnZ"
 CLOUDINARY_API_SECRET= "Your app secret key"
 ```
 
